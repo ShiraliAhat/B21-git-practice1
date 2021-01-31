@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("Readay to merge");
         System.out.println(" ready to merge");
         //movie on the phone
+        //movie on the phone 10 min
 
 
     }
